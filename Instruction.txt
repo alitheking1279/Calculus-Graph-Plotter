@@ -1,0 +1,2 @@
+This code uses glad and glfw to run along with glm and tinyexpr for function parsing 
+thus you will need to link these libs if you want to modify the code
